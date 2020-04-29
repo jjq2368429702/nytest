@@ -1,0 +1,13 @@
+package com.ny.nytest2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Nytest2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Nytest2Application.class, args);
+    }
+
+}
